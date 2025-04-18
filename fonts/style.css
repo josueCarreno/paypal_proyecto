@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'PayPal Open';
+    src: local('PayPal Open Regular'), local('PayPal-Open-Regular'),
+        url('PayPalOpen-Regular.woff2') format('woff2'),
+        url('PayPalOpen-Regular.woff') format('woff'),
+        url('PayPalOpen-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
